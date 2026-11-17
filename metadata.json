@@ -1,0 +1,6 @@
+{
+  "name": "MiePetShop",
+  "description": "Toko online makanan kucing pilihan dengan nutrisi lengkap, tampilan pastel yang lembut, dan sistem belanja serta manajemen produk siap Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
